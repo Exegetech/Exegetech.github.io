@@ -45,6 +45,9 @@ quarto render
 
 - https://quarto.org/docs/websites/website-blog.html
 - https://quarto.org/docs/publishing/github-pages.html
+- https://quarto.org/docs/output-formats/html-themes.html#theme-options
+- https://quarto.org/docs/websites/website-about.html
+- https://quarto.org/docs/websites/website-listings.html
 
 ## Useful Python/Pip Commands
 ### Make a Venv

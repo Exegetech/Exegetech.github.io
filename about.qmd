@@ -2,7 +2,7 @@
 title: "About"
 image: profile.jpg
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: twitter
       text: Twitter
@@ -16,4 +16,20 @@ about:
 
 ---
 
-About this blog
+This is my own personal portfolio and blog website.
+
+Vertikal Willis is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, I enjoys spending  time unicycling and playing with my pet iguana.
+
+## Education
+
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018

@@ -4,7 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "This is my own personal portfolio and blog website.\nVertikal Willis is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, I enjoys spending time unicycling and playing with my pet iguana."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -86,7 +100,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "blog",
+    "title": "Blog",
     "section": "",
     "text": "Table Of Contents\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPost With Jupyter Notebook\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 8, 2023\n\n\nVertikal Willis\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2023\n\n\nVertikal Willis\n\n\n\n\n\n\nNo matching items"
   }
