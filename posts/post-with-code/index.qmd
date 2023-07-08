@@ -1,0 +1,11 @@
+---
+title: "Post With Jupyter Notebook"
+author: "Vertikal Willis"
+date: "2023-07-08"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with my final project for Data Science bootcamp.
+
+{{< embed final.ipynb >}}
