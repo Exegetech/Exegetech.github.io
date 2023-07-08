@@ -1,0 +1,31 @@
+---
+title: "Example presentation"
+author: "Vertikal Willis"
+date: "2023-07-09"
+categories: [news, code, analysis]
+format: revealjs
+---
+
+# In the morning
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Breakfast
+
+- Eat eggs
+- Drink coffee
+
+# In the evening
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
