@@ -8,4 +8,6 @@ image: "image.jpg"
 
 This is a post with my final project for Data Science bootcamp.
 
+Test 1 2 3
+
 {{< embed final.ipynb >}}
