@@ -5,7 +5,7 @@ date: "2023-07-05"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post in a Quarto blog. Welcome! Livereload
 
 ![](thumbnail.jpg)
 
